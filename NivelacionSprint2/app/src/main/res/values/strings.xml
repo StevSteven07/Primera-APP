@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NivelacionSprint2</string>
+
+    <string name="titleCatalogo">PRODUCTOS</string>
+
+    <string name="titleForm">FORMULARIO</string>
+    <string name="nombreForm">Nombre:</string>
+    <string name="descriptionForm">Descripcion:</string>
+    <string name="priceForm">Precio:</string>
+    <string name="buttonForm">REGISTRAR</string>
+
+    <string name="descriptionInfo">Descripcion</string>
+    <string name="priceInfo">Precio</string>
+    <string name="buttonInfo">VOLVER</string>
+
+    <string name="buttonMain">INICIAR</string>
+
+    <string name="nameTemplate">NOMBRE</string>
+    <string name="descriptionTemplate">Descripcion</string>
+    <string name="priceTemplate">Precio</string>
+
+
+
+</resources>
